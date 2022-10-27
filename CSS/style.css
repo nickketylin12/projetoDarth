@@ -2,3 +2,13 @@
     border : 1px solid red;
     width: 900px;
 }
+
+.nav{
+    background-color: #708090;
+}
+
+.nav-item{
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
